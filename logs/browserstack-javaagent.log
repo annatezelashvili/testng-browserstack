@@ -1,0 +1,8 @@
+03:00:02.745 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+03:00:02.849 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+03:05:29.755 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+03:05:29.812 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+03:10:30.439 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+03:10:30.515 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:57:32.269 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:57:32.308 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
